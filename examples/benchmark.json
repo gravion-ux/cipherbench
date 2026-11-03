@@ -1,0 +1,7 @@
+[
+  {"algorithm":"ML-KEM-768","elapsed_ms":0.82},
+  {"algorithm":"ML-KEM-768","elapsed_ms":0.79},
+  {"algorithm":"ML-KEM-768","elapsed_ms":0.91},
+  {"algorithm":"X25519","elapsed_ms":0.34},
+  {"algorithm":"X25519","elapsed_ms":0.37}
+]
