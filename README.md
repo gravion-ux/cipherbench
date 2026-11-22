@@ -1,5 +1,9 @@
 # CipherBench
 
+![Demo](docs/demo.png)
+
+*Demo: Post-quantum benchmark summary with known-answer verification (ML-KEM-768).*
+
 > A benchmark and interoperability test harness specification for vetted post-quantum cryptographic providers.
 
 **Status:** MVP scaffold / research prototype. Not production-certified.
