@@ -1,5 +1,7 @@
 # CipherBench
 
+[![CI](https://github.com/gravion-ux/cipherbench/actions/workflows/ci.yml/badge.svg)](https://github.com/gravion-ux/cipherbench/actions/workflows/ci.yml)
+
 ![Demo](docs/demo.png)
 
 *Demo: Post-quantum benchmark summary with known-answer verification (ML-KEM-768).*
